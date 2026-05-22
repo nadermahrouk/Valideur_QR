@@ -1,0 +1,19 @@
+build/
+*.pbm
+*.png
+*.o
+# Private keys
+keys/private.pem
+
+# Build
+build/
+
+# Runtime files
+data/signature.bin
+data/signature.b64
+data/received_signature.bin
+data/received_signature.b64
+data/received_ticket.txt
+
+# Temporary
+*.o
